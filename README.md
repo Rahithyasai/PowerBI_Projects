@@ -36,7 +36,7 @@ It includes data cleaning, modeling, and dashboard creation to uncover useful in
 
 ---
 
-## 💡 Learnings
+##  Learnings
 - Basics of Power BI and DAX.
 - Data cleaning and transformation.
 - Designing clear and interactive dashboards.
