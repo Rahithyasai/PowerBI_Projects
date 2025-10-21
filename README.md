@@ -44,7 +44,5 @@ It includes data cleaning, modeling, and dashboard creation to uncover useful in
 ---
 
 ## 🖼 Dashboard Preview
-(You can add a screenshot later here)  
-Example:  
-```markdown
+
 ![Dashboard Preview](Dashboard.png)
