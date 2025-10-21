@@ -43,6 +43,3 @@ It includes data cleaning, modeling, and dashboard creation to uncover useful in
 
 ---
 
-## 🖼 Dashboard Preview
-
-![Dashboard Preview](Dashboard.png)
